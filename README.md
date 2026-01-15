@@ -41,4 +41,4 @@ PokemonOS est un simulateur de combat Pokémon en ligne de commande, écrit en P
 - **Gestion d'État** : Suivi des points de vie et du déroulement du combat via les instances de classe.
 
 ---
-Développé avec ❤️ pour apprendre la POO.
+Développé pour apprendre la POO.
